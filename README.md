@@ -27,9 +27,9 @@ If you want to look at a different date, please note that the date entered must 
 
 ## Screenshots
 
-!(https://github.com/wroth08/Q1-Project-Don-t-Panic/blob/master/screenshot.png)
+!["top screenshot"](https://github.com/wroth08/Q1-Project-Don-t-Panic/blob/master/screenshot.png)
 
-!(https://github.com/wroth08/Q1-Project-Don-t-Panic/blob/master/screenshot2.png)
+!["top screenshot2"](https://github.com/wroth08/Q1-Project-Don-t-Panic/blob/master/screenshot2.png)
 
 ## License
 
