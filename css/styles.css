@@ -1,0 +1,236 @@
+nav {
+  background-color: #caafa6;
+  color: black; }
+
+.nav-wrapper a {
+  color: black; }
+
+body {
+  background-color: #424242;
+  color: black; }
+
+.scary-box {
+  margin-top: 20px;
+  background-color: #caafa6;
+  height: 600px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; }
+
+#asteroidTitle {
+  font-size: 40px;
+  border-bottom: 1px solid #d7ccc8; }
+
+.new-date-input {
+  height: 50px;
+  width: 90%;
+  display: flex;
+  align-items: center; }
+
+.new-date-input h1 {
+  width: 500px;
+  font-size: 25px;
+  margin-right: 10px; }
+
+.input-box {
+  width: 150px;
+  height: 50px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-right: 50px; }
+
+input {
+  width: 100px; }
+
+button {
+  width: 200px;
+  height: 80px; }
+
+.asteroids-facts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 100%; }
+
+#asteroid-list li .collapsible-header {
+  background-color: #caafa6;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  justify-content: space-between; }
+
+#asteroid-list li .collapsible-body {
+  background-color: #a1887f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  padding: 0;
+  color: black; }
+
+.total-asteroids {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.scary-asteroids {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  margin-left: 2%;
+  margin-right: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.harmless-asteroids {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+h1 {
+  font-size: 250px;
+  margin: 0; }
+
+h2 {
+  font-size: 19px;
+  margin: 0; }
+
+.total-asteroids h1 {
+  color: black; }
+
+.scary-asteroids h1 {
+  color: darkred; }
+
+.harmless-asteroids h1 {
+  color: green; }
+
+.asteroid-speed-box {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2%;
+  margin-right: 2%; }
+
+.asteroid-diameter-box {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.asteroid-missed-by-box {
+  height: 80%;
+  width: 30%;
+  border: 5px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+li h1 {
+  font-size: 100px; }
+
+.panic-button {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  background-color: darkred;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 25%;
+  left: 86%;
+  border: 2px solid white; }
+
+.panic-button:hover {
+  background-color: red; }
+
+.panic-button h1 {
+  color: white;
+  font-size: 40px; }
+
+.comfort-button {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  background-color: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 55%;
+  left: 86%;
+  border: 2px solid white; }
+
+.comfort-button h1 {
+  color: white;
+  font-size: 40px; }
+
+.comfort-button:hover {
+  background-color: lightgreen; }
+
+#asteroids {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  top: 1%;
+  left: 1%; }
+
+#death1 {
+  height: 75vh;
+  width: 30%;
+  opacity: 0; }
+
+#death2 {
+  height: 75vh;
+  width: 30%;
+  opacity: 0; }
+
+#death3 {
+  height: 75vh;
+  width: 30%;
+  opacity: 0; }
+
+.calming-info {
+  height: 350px;
+  width: 600px;
+  background-color: #caafa6;
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.calming-info h1 {
+  font-size: 60px;
+  padding: 0;
+  margin-bottom: 40px; }
+
+.calming-info p {
+  padding: 40px;
+  font-size: 20px;
+  margin-top: 0; }
+
+/*# sourceMappingURL=styles.css.map */
